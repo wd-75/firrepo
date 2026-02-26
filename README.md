@@ -1,3 +1,7 @@
+[![Visit Site](https://img.shields.io/badge/Visit_Site-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mks-eosin-nine.vercel.app/)
+![Demo Screenshot](https://github.com/wd-75/firrepo/blob/main/Screenshot%202026-02-26%20233055.png?raw=true)
+![Demo Screenshot](https://github.com/wd-75/firrepo/blob/main/Screenshot%202026-02-26%20233731.png?raw=true)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
